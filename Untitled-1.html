@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minha Primeira Página HTML</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bem-vindo à Minha Página HTML!</h1>
+    <p>Esta é a minha primeira página criada e hospedada usando GitHub Pages.</p>
+    <p>Estou aprendendo a criar e hospedar sites. Este é apenas o começo!</p>
+</body>
+</html>
